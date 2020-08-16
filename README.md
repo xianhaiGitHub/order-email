@@ -32,4 +32,4 @@
 
 
 如有问题请到QQ群交流:958435758<br />
-![images](https://github.com/xianhaiGitHub/order-email/blob/master/images/T1.jpg)
+![images](https://github.com/xianhaiGitHub/order-email/blob/master/images/T1.png)
