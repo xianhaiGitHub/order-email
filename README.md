@@ -3,11 +3,11 @@
 异步多线程+设计模式构建发送订单邮件<br />
 注意fork 代码到本地后，修改application.properties 文件里的数据库配置为你本人的，虽然本项目不需要数据库，但是不添加会报错<br />
 #项目结构<br />
-├─src
-│  ├─main
-│  │  ├─java
-│  │  │  └─com
-│  │  │      └─sea
+├─src<br />
+│  ├─main<br />
+│  │  ├─java<br />
+│  │  │  └─com<br />
+│  │  │      └─sea<br />
 │  │  │          └─order<br />
 │  │  │              ├─annotation    --自定义注解<br />
 │  │  │              ├─common        -- 公共工具<br />
