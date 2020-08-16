@@ -1,6 +1,6 @@
 # order-email
 关注微信公众号:技术可期，查看更多公司项目实战干货<br />
-# 注意fork 代码到本地后，修改application.properties 文件里的数据库配置为你本人的，虽然本项目不需要数据库，但是不添加会报错<br />
+注意fork 代码到本地后，修改application.properties 文件里的数据库配置为你本人的，虽然本项目不需要数据库，但是不添加会报错<br />
 #项目结构<br />
 ├─src<br />
 │  ├─main<br />
