@@ -30,5 +30,5 @@
 └─
 
 
-如有问题请到QQ群交流:<br />
-https://github.com/xianhaiGitHub/order-email/upload/master/images/T1.jpg<br />
+如有问题请到QQ群交流:958435758<br />
+
